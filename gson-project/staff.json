@@ -1,0 +1,16 @@
+{
+  "name": "modernISC",
+  "age": 35,
+  "position": [
+    "Founder",
+    "CTO",
+    "Writer"
+  ],
+  "skills": [
+    "java",
+    "python",
+    "node",
+    "kotlin"
+  ],
+  "salary": null
+}
